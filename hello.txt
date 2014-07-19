@@ -1,1 +1,7 @@
-sectond commit 第二次提交
+git 基本操作命令
+
+
+git status 查看版本库里面的文件状态
+git add 添加要上传的文件
+git commit -m "" add后必须执行的，写上上传的描述
+git push origin master 提交到版本库中
